@@ -1,0 +1,13 @@
+"2022-08-02 00:29:58 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m59s173ms142µs800ns).
+""2022-08-02 08:02:35 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h21m37s728ms386µs).
+""2022-08-02 09:49:41 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m34s756ms652µs100ns).
+""2022-08-02 09:57:29 [http-nio-8081-exec-1] INFO  c.c.a.controller.AuthController - Authentication started....
+""2022-08-02 09:57:29 [http-nio-8081-exec-1] INFO  c.c.a.controller.AuthController - Authentication successfully..
+""2022-08-02 09:57:29 [http-nio-8081-exec-1] INFO  c.c.a.controller.AuthController - Received request to generate token for Keshav
+""2022-08-02 18:41:59 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h32m19s185ms606µs500ns).
+""2022-08-02 18:42:40 [RMI TCP Connection(259)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+""2022-08-02 18:42:40 [RMI TCP Connection(259)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+""2022-08-02 18:42:41 [RMI TCP Connection(259)-127.0.0.1] WARN  o.s.b.f.s.DisposableBeanAdapter - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+""2022-08-02 18:42:41 [RMI TCP Connection(259)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+""2022-08-02 18:42:41 [RMI TCP Connection(259)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+"
